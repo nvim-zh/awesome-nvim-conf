@@ -1,0 +1,8 @@
+- author: ofseed
+  repo: https://github.com/ofseed/nvim
+  description: Over 150+ featured plugins
+  tags: nvim-lsp, C/C++, Rust, GO, JavaScript, TypeScript, Java
+- author: jdhao
+  repo: https://github.com/jdhao/nvim-config
+  description: A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...
+  tags: nvim-lsp, Python, LaTeX
