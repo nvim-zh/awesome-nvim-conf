@@ -3,6 +3,10 @@
 A collection of awesome Neovim configuration from Chinese nvim users.
 
 <!--MARKDOWN_TABLE_START-->
+|author|                repo                |                                            description                                           |                          tags                         |stars|
+|------|------------------------------------|--------------------------------------------------------------------------------------------------|-------------------------------------------------------|-----|
+|ofseed|   https://github.com/ofseed/nvim   |                                    Over 150+ featured plugins                                    |nvim-lsp, C/C++, Rust, GO, JavaScript, TypeScript, Java| 144 |
+| jdhao|https://github.com/jdhao/nvim-config|A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...|                nvim-lsp, Python, LaTeX                | 3364|
 <!--MARKDOWN_TABLE_END-->
 
 # How to contribute?
