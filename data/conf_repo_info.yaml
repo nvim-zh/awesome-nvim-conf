@@ -10,3 +10,7 @@
   repo: https://github.com/Zwlin98/nvim
   description: A simple and clean neovim configuration, optimized for HHKB layout
   tags: nvim-lsp, Lua, HHKB, Nord, Lua
+- author: nanozuki
+  repo: https://github.com/nanozuki/crows/tree/master/configs/nvim
+  description:
+  tags:
