@@ -14,3 +14,7 @@
   repo: https://github.com/nanozuki/crows/tree/master/configs/nvim
   description:
   tags:
+- author: aidancz
+  repo: https://github.com/aidancz/arch_config/tree/master/.config/nvim
+  description: simple single-file neovim config, with sensible options, mappings, autocmds...
+  tags: lua, single-file
