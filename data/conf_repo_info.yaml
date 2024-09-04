@@ -18,3 +18,7 @@
   repo: https://github.com/aidancz/arch_config/tree/master/.config/nvim
   description: simple single-file neovim config, with sensible options, mappings, autocmds...
   tags: lua, single-file
+- author: leoatchina
+  repo: https://github.com/leoatchina/leovim
+  description: A Vim configuration compatible with Vim 7.4 to the latest Neovim, using vim-plug as the plugin manager, primarily in Vimscript with Lua config, rich in features and clear in structure.
+  tags: vim-plug, mulitple-files, vimscript, lua, vim, neovim, repl, lsp, dap, treesitter, coc.nvim, cmp 
