@@ -26,3 +26,7 @@
   repo: https://github.com/leoatchina/leovim
   description: A Vim configuration compatible with Vim 7.4 to the latest Neovim, using vim-plug as the plugin manager, primarily in Vimscript with Lua config, rich in features and clear in structure.
   tags: vim-plug, mulitple-files, vimscript, lua, vim, neovim, repl, lsp, dap, treesitter, coc.nvim, cmp 
+- author: donglitiaobnan
+  repo: https://github.com/donglitiaoban/dotfiles/tree/main/nvim
+  description: Pure-lua neovim configuration tested on windows
+  tags: lua, lazy, lsp-zero, telescope
