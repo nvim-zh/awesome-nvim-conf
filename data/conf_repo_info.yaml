@@ -30,3 +30,7 @@
   repo: https://github.com/donglitiaoban/dotfiles/tree/main/nvim
   description: Pure-lua neovim configuration tested on windows
   tags: lua, lazy, lsp-zero, telescope
+- author: someoneinjd
+  repo: https://github.com/someoneinjd/dotfiles/tree/main/config/nvim
+  description:
+  tags: nvim-lsp, lazy.nvim, blink.cmp, treesitter, telescope
