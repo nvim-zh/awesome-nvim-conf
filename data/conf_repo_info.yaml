@@ -25,7 +25,7 @@
 - author: leoatchina
   repo: https://github.com/leoatchina/leovim
   description: A Vim configuration compatible with Vim 7.4 to the latest Neovim, using vim-plug as the plugin manager, primarily in Vimscript with Lua config, rich in features and clear in structure.
-  tags: vim-plug, mulitple-files, vimscript, lua, vim, neovim, repl, lsp, dap, treesitter, coc.nvim, cmp 
+  tags: vim-plug, mulitple-files, vimscript, lua, vim, neovim, repl, lsp, dap, treesitter, coc.nvim, cmp
 - author: donglitiaobnan
   repo: https://github.com/donglitiaoban/dotfiles/tree/main/nvim
   description: Pure-lua neovim configuration tested on windows
@@ -34,3 +34,7 @@
   repo: https://github.com/someoneinjd/dotfiles/tree/main/config/nvim
   description:
   tags: nvim-lsp, lazy.nvim, blink.cmp, treesitter, telescope
+- author: qw457812
+  repo: https://github.com/qw457812/dotfiles/tree/main/dot_config/nvim
+  description: A modern, modular Neovim config powered by LazyVim, with 130+ enabled plugins and 40+ available user extras. Used daily on macOS (Neovim nightly) and Android via Termux.
+  tags: LazyVim, macOS, Termux, Chezmoi, AI, Kitty, VSCode, Lua, Java, Python
